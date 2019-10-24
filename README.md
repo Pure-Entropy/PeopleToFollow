@@ -1,5 +1,5 @@
 # PeopleToFollow
-A list of awesome people to follow in the tech space online
+A list of awesome people to follow in the tech space online🎉
 
 ## Awesome People
 Twitter: [@TheAmyCode](https://twitter.com/TheAmyCode)
