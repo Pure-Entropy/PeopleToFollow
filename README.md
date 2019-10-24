@@ -1,4 +1,4 @@
-# AwesomePeopleToFollow
+# PeopleToFollow
 A list of awesome people to follow in the tech space online
 
 ## Awesome People
@@ -136,7 +136,7 @@ Twitter: [@cassidoo](https://twitter.com/cassidoo)
 
 ## Access Locally
 ```
-$ git clone https://github.com/bvlktech/AwesomePeopleToFollow.git
+$ git clone https://github.com/bvlktech/PeopleToFollow.git
 ```
 
 ## Contributing
