@@ -2,7 +2,7 @@
 A list of awesome people to follow in the tech space online.🎉
 
 ## Awesome People
-* ***Amy Codes***:
+* **Amy Codes**:
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@TheAmyCode](https://Twitter.com/TheAmyCode)
  
