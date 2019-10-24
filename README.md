@@ -74,7 +74,7 @@ A list of awesome people to follow in the tech space online.🎉
     * Twitter: [@swyx](https://Twitter.com/swyx)
 
 * **Rachel Nabors**: 
-    * GitHub: [@rachelnabors](https://Twitter.com/rachelnabors)
+    * GitHub: [@rachelnabors](https://github.com/rachelnabors)
     * Twitter: [@rachelnabors](https://Twitter.com/rachelnabors)
 
 * **Una Kravets**: 
