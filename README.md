@@ -201,7 +201,7 @@ A list of awesome people to follow in the tech space online.🎉
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@kefimochi](https://Twitter.com/kefimochi)
 
-* **𝙹𝚊𝚖𝚒𝚎 𝙺𝚊𝚛𝚎𝚗**: 
+* **Jamie Karen**: 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@missjamiekaren](https://Twitter.com/missjamiekaren)
 
