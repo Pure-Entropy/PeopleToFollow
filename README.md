@@ -1,7 +1,6 @@
 # PeopleToFollow
 A list of awesome people to follow in the tech space online.🎉
 
-## Awesome People
 * **Amy Codes**:
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@TheAmyCode](https**://Twitter.com/TheAmyCode)
@@ -272,4 +271,4 @@ $ git clone https**://github.com/bvlktech/PeopleToFollow.git
 ```
 
 ## Contributing
-Contributions are always welcome, no matter how large or small. just make a PR(**:
+Contributions are always welcome, no matter how large or small. just make a PR(:
