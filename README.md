@@ -2,267 +2,267 @@
 A list of awesome people to follow in the tech space online.🎉
 
 ## Awesome People
-Amy Codes - 
+* Amy Codes 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@TheAmyCode](https://Twitter.com/TheAmyCode)
-
-Amanda - 
+ 
+* Amanda - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@amandathedevnyc](https://Twitter.com/amandathedevnyc)
-
-Brandy Morgan - 
+ 
+* Brandy Morgan - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@msbrandymorgan](https://Twitter.com/msbrandymorgan)
 
-Laura Gonzalez - 
+* Laura Gonzalez - 
     * GitHub: [@walaura](https://github.com/walaura)
     * Twitter: [@freezydorito](https://Twitter.com/freezydorito)
 
-Yechiel Kalmenson - 
+* Yechiel Kalmenson - 
     * GitHub: [@achasveachas](https://github.com/achasveachas)
     * Twitter: [@yechielk](https://Twitter.com/yechielk)
 
-Nelson Abalos Jr. - 
+* Nelson Abalos Jr. - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@thepixelgeek](https://Twitter.com/thepixelgeek)
 
-E.J. Mason - 
+* E.J. Mason - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@codeability](https://Twitter.com/codeability)
 
-David Bailey - 
+* David Bailey - 
     * GitHub: [@davidbailey00](https://github.com/davidbailey00)
     * Twitter: [@davidbailey00](https://Twitter.com/davidbailey00)
 
-Mikhail Novikov - 
+* Mikhail Novikov - 
     * GitHub: [@freiksenet](https://github.com/freiksenet)
     * Twitter: [@freiksenet](https://Twitter.com/freiksenet)
 
-Sara Vieira - 
+* Sara Vieira - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@NikkitaFTW](https://Twitter.com/NikkitaFTW)
 
-Stephanie Winn - 
+* Stephanie Winn - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@steph_happens](https://Twitter.com/steph_happens)
 
-Kate Sowles - 
+* Kate Sowles - 
     * GitHub: [@katesowles](https://github.com/katesowles)
     * Twitter: [@katesowles](https://Twitter.com/katesowles)
 
-Ben Halpern 
+* Ben Halpern 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@bendhalpern](https://Twitter.com/bendhalpern)
 
-Haya Odeh - 
+* Haya Odeh - 
     * GitHub: [@HayaOdeh](https://github.com/HayaOdeh)
     * Twitter: [@HayaOdeh](https://Twitter.com/HayaOdeh)
 
-Keziyah - 
+* Keziyah - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@KeziyahL](https://Twitter.com/KeziyahL)
 
-Kelly Vaughn - 
+* Kelly Vaughn - 
     * GitHub: [@kellyvaughn](https://github.com/kellyvaughn)
     * Twitter: [@kvlly](https://Twitter.com/kvlly)
 
-Kyle Shevlin - 
+* Kyle Shevlin - 
     * GitHub: [@kyleshevlin](https://github.com/kyleshevlin)
     * Twitter: [@kyleshevlin](https://Twitter.com/kyleshevlin)
 
-Swyx? - 
+* Swyx? - 
     * GitHub: [@sw-yx](https://github.com/sw-yx)
     * Twitter: [@swyx](https://Twitter.com/swyx)
 
-Rachel Nabors - 
+* Rachel Nabors - 
     * GitHub: [@rachelnabors](https://Twitter.com/rachelnabors)
     * Twitter: [@rachelnabors](https://Twitter.com/rachelnabors)
 
-Una Kravets - 
+* Una Kravets - 
     * GitHub: [@Una](https://github.com/una)
     * Twitter: [@Una](https://Twitter.com/Una)
 
-Vlad Magdalin - 
+* Vlad Magdalin - 
     * GitHub: [@callmevlad](https://github.com/callmevlad)
     * Twitter: [@callmevlad](https://Twitter.com/callmevlad)
 
-Daniel Vaughn - 
+* Daniel Vaughn - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@dxnielvaughn](https://Twitter.com/dxnielvaughn)
 
-Brian Vaughn - 
+* Brian Vaughn - 
     * GitHub: [@bvaughn](https://github.com/bvaughn)
     * Twitter: [@brian_d_vaughn](https://Twitter.com/brian_d_vaughn)
 
-Emma Wedekind - 
+* Emma Wedekind - 
     * GitHub: [@EmmaWedekind](https://github.com/EmmaWedekind)
     * Twitter: [@EmmaWedekind](https://Twitter.com/EmmaWedekind)
 
-Yan - 
+* Yan - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@bcrypt](https://Twitter.com/bcrypt)
 
-Sarah Drasner - 
+* Sarah Drasner - 
     * GitHub: [@sdras](https://github.com/sdras)
     * Twitter: [@sarah_edo](https://Twitter.com/sarah_edo)
 
-Alejandra Villa - 
+* Alejandra Villa - 
     * GitHub: [@AlxSavage](https://github.com/AlxSavage)
     * Twitter: [@AlxSavage](https://Twitter.com/AlxSavage)
 
-Ali Spittel - 
+* Ali Spittel - 
     * GitHub: [@aspittel](https://github.com/aspittel)
     * Twitter: [@ASpittel](https://Twitter.com/ASpittel)
 
-Ally Smirnov - 
+* Ally Smirnov - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@AllySmirnov](https://Twitter.com/AllySmirnov)
 
-Marcy Sutton - 
+* Marcy Sutton - 
     * GitHub: [@marcysutton](https://github.com/marcysutton)
     * Twitter: [@marcysutton](https://Twitter.com/marcysutton)
 
-Becca Williams - 
+* Becca Williams - 
     * GitHub: [@Becca9941](https://github.com/Becca9941)
     * Twitter: [@Becca9941](https://Twitter.com/Becca9941)
 
-Ben Lesh - 
+* Ben Lesh - 
     * GitHub: [@BenLesh](https://github.com/BenLesh)
     * Twitter: [@BenLesh](https://Twitter.com/BenLesh)
 
-Bekah Hawrot Weigel - 
+* Bekah Hawrot Weigel - 
     * GitHub: [@BekahHW](https://github.com/BekahHW)
     * Twitter: [@BekahHW](https://Twitter.com/BekahHW)
 
-benjamin - 
+* benjamin - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@BenjaminCodes](https://Twitter.com/BenjaminCodes)
 
-Jesse R Weigel - 
+* Jesse R Weigel - 
     * GitHub: [@JesseRWeigel](https://github.com/JesseRWeigel)
     * Twitter: [@JesseRWeigel](https://Twitter.com/JesseRWeigel)
 
-Lindsey Kopacz - 
+* Lindsey Kopacz - 
     * GitHub: [@lkopacz](https://github.com/lkopacz)
     * Twitter: [@LittleKope](https://Twitter.com/LittleKope)
 
-Molly Struve - 
+* Molly Struve - 
     * GitHub: [@mstruve](https://github.com/mstruve)
     * Twitter: [@molly_struve](https://Twitter.com/molly_struve)
 
-Hiro - 
+* Hiro - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@hirokonishimura](https://Twitter.com/hirokonishimura)
 
-Moriah Maney - 
+* Moriah Maney - 
     * GitHub: [@moriahmaney](https://github.com/moriahmaney)
     * Twitter: [@moriahmaney](https://Twitter.com/moriahmaney)
 
-Suz Hinton - 
+* Suz Hinton - 
     * GitHub: [@noopkat](https://github.com/noopkat)
     * Twitter: [@noopkat](https://Twitter.com/noopkat)
 
-Dashiell Bark Huss - 
+* Dashiell Bark Huss - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@DashBarkHuss](https://Twitter.com/DashBarkHuss)
 
-Emily Anne - 
+* Emily Anne - 
     * GitHub: [@thecodepixi](https://github.com/thecodepixi)
     * Twitter: [@TheCodePixi](https://Twitter.com/TheCodePixi)
 
-Trevor Brindle - 
+* Trevor Brindle - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@trevorbrindlejs](https://Twitter.com/trevorbrindlejs)
 
-Tracy King - 
+* Tracy King - 
     * GitHub: [@tracyalison11](https://github.com/tracyalison11)
     * Twitter: [@ng_tracyy](https://Twitter.com/ng_tracyy)
 
-Trezy - 
+* Trezy - 
     * GitHub: [@trezy](https://github.com/trezy)
     * Twitter: [@TrezyCodes](https://Twitter.com/TrezyCodes)
 
-Sasha Tran - 
+* Sasha Tran - 
     * GitHub: [@sashatran](https://github.com/sashatran)
     * Twitter: [@sashattran](https://Twitter.com/sashattran)
 
-April Wensel - 
+* April Wensel - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@aprilwensel](https://Twitter.com/aprilwensel)
 
-Shubheksha Jalan - 
+* Shubheksha Jalan - 
     * GitHub: [@shubheksha](https://github.com/shubheksha)
     * Twitter: [@ScribblingOn](https://Twitter.com/ScribblingOn)
 
-Ashlee M Boyer - 
+* Ashlee M Boyer - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@ashleemboyer](https://Twitter.com/ashleemboyer)
 
-Kate Efimova - 
+* Kate Efimova - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@kefimochi](https://Twitter.com/kefimochi)
 
-𝙹𝚊𝚖𝚒𝚎 𝙺𝚊𝚛𝚎𝚗 - 
+* 𝙹𝚊𝚖𝚒𝚎 𝙺𝚊𝚛𝚎𝚗 - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@missjamiekaren](https://Twitter.com/missjamiekaren)
 
-sally kader - 
+* sally kader - 
     * GitHub: [@jsallykader](https://github.com/jsallykader)
     * Twitter: [@sallykatcodes](https://Twitter.com/sallykatcodes)
 
-Kat - 
+* Kat - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@maybekatz](https://Twitter.com/maybekatz)
 
-Nicky Meuleman - 
+* Nicky Meuleman - 
     * GitHub: [@NickyMeuleman](https://github.com/NickyMeuleman)
     * Twitter: [@NMeuleman](https://Twitter.com/NMeuleman)
 
-Cher Scarlett - 
+* Cher Scarlett - 
     * GitHub: [@cherscarlett](https://github.com/cherscarlett)
     * Twitter: [@CHERdotdev](https://Twitter.com/CHERdotdev)
 
-Christopher Biscardi - 
+* Christopher Biscardi - 
     * GitHub: [@ChristopherBiscardi](https://github.com/ChristopherBiscardi)
     * Twitter: [@chrisbiscardi](https://Twitter.com/chrisbiscardi)
 
-Chloe Condon - 
+* Chloe Condon - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@ChloeCondon](https://Twitter.com/ChloeCondon)
 
-Jason Lengstorf - 
+* Jason Lengstorf - 
     * GitHub: [@jlengstorf](https://github.com/jlengstorf)
     * Twitter: [@jlengstorf](https://Twitter.com/jlengstorf)
 
-Jason Bahl - 
+* Jason Bahl - 
     * GitHub: [@jasonbahl](https://github.com/jasonbahl)
     * Twitter: [@jasonbahl](https://Twitter.com/jasonbahl)
 
-Erin Fox - 
+* Erin Fox - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@erinfoox](https://Twitter.com/erinfoox)
 
-Ryan Florence - 
+* Ryan Florence - 
     * GitHub: [@ryanflorence](https://github.com/ryanflorence)
     * Twitter: [@ryanflorence](https://Twitter.com/ryanflorence)
 
-Lily Scott - 
+* Lily Scott - 
     * GitHub: [@suchipi](https://github.com/suchipi)
     * Twitter: [@suchipi](https://Twitter.com/suchipi)
 
-Sahil Lavingia - 
+* Sahil Lavingia - 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@shl](https://Twitter.com/shl)
 
-Carolyn Stransky - 
+* Carolyn Stransky 
     * GitHub: [@carolstran](https://github.com/carolstran)
     * Twitter: [@carolstran](https://Twitter.com/carolstran)
  
-Cassidy Williams - 
+* Cassidy Williams 
     * GitHub: [@cassidoo](https://github.com/cassidoo)
     * Twitter: [@cassidoo](https://Twitter.com/cassidoo)
 
-Lydia Hallie - 
+* Lydia Hallie 
     * GitHub: [@lydiahallie](https://github.com/lydiahallie)
     * Twitter: [@lydiahallie](https://Twitter.com/lydiahallie)
 
