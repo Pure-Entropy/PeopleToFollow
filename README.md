@@ -1,10 +1,14 @@
 # PeopleToFollow
 A list of awesome people to follow in the tech space online.🎉
 
+* **Alex Wilson**:
+    * GitHub: [@bvlktech](https://github.com/bvlktech)
+    * Twitter: [@bvlktech](https://twitter.com/bvlktech)
+
 * **Amy Codes**:
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@TheAmyCode](https://Twitter.com/TheAmyCode)
- 
+    
 * **Amanda**: 
     * GitHub: DATA_NOT_FOUND
     * Twitter: [@amandathedevnyc](https://Twitter.com/amandathedevnyc)
