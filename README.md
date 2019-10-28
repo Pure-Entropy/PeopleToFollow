@@ -217,6 +217,9 @@ A list of awesome people to follow in the tech space online.🎉
 * **Alice Goldfuss**:
     * Github: [@alicegoldfuss](<https://github.com/alicegoldfuss>), [@nautalice](<https://github.com/nautalice>)
     * Twitter: [@alicegoldfuss](<https://twitter.com/alicegoldfuss>)
+* **Yechiel Kalmenson**:
+    * Github: [@achasveachas](<https://github.com/achasveachas>)
+    * Twitter: [@yechielk](<https://twitter.com/yechielk>)
 
 ## Access Locally
 ```
